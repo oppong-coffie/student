@@ -1,5 +1,5 @@
 import React from "react";
-import StatCards from "../components/AccountManage/StatCards.jsx"
+import StatCards from "../components/AccountManage/Statcards.jsx"
 import StudentTable from "../components/AccountManage/Transaction-table.jsx"
 
 export default function Home() {
