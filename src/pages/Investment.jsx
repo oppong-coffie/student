@@ -2,7 +2,7 @@ import React from "react";
 import Growth from "../components/investment/Growth.jsx";
 import Breakdown from "../components/investment/Breakdown.jsx";
 import Withdrawal from "../components/investment/Withdrawal.jsx";
-import StatCards from "../components/investment/StatCards.jsx";
+import StatCards from "../components/investment/Statcards.jsx";
 
 export default function Investment() {
   return (
