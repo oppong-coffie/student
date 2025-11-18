@@ -28,7 +28,7 @@ export default function Sidebar() {
   };
 
   return (
-    <aside className="w-64 bg-white h-screen flex-col p-4 mt-16 justify-between">
+    <aside className="w-64 bg-white h-screen flex-col p-4 mt-3 justify-between">
       {/* Top menu */}
       <nav className="flex-1 flex flex-col gap-2">
         {menuItems.map((item) => {
