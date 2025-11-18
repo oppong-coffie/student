@@ -8,7 +8,7 @@ import PartnerMgnt from "./PartnerMgnt.jsx";
 import Financial from "./Financial.jsx";
 import Transfer from "../Transfer.jsx";
 import Report from "../Report.jsx";
-import Settings from "../settings.jsx";
+import Settings from "../Settings.jsx";
 
 export default function Dashboard() {
   return (
